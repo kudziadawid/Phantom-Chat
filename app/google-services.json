@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "307026657062",
+    "firebase_url": "https://flashchatandroid-3e221.firebaseio.com",
+    "project_id": "flashchatandroid-3e221",
+    "storage_bucket": "flashchatandroid-3e221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307026657062:android:7e986923485fb90a",
+        "android_client_info": {
+          "package_name": "com.dawidkudzia.phantomchat_firebase_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307026657062-hc3ttq26sgb02uvcuoka10pvgbpd3tat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7i7AnPHPCExOJRtZvcRDPukmCv8k-1U0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
